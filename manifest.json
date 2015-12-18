@@ -1,0 +1,16 @@
+{
+  "name": "Close Google Tabs",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Quickly close google all search tabs, useful if you set 'open results in a new tab' from G search settings",
+  "browser_action": {
+    "default_icon": "icon_48.png"
+  },
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png",
+      "48": "icon_48.png"
+   },  
+  "permissions": [  "tabs", "contextMenus", "http://*/*", "https://*/*" ],
+  "background": { "scripts": ["main.js"] }
+}
