@@ -2,4 +2,4 @@
 
 Browser extensions (only Chrome for now) for quickly close all Google Search tabs in the current window, you click the extension button and puff. Simple as that.
 
-This is particularry useful if 'open results in a new tab' set in Google Search setting panel.
+This is particularry useful if "open results in a new tab" set in Google Search setting panel.
