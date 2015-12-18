@@ -2,7 +2,7 @@
   "name": "close google tabs",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "Quickly close google all search tabs, useful if you set 'open results in a new tab' from G search settings",
+  "description": "Quickly close all Google Search tabs",
   "browser_action": {
     "default_icon": "icon_48.png"
   },
